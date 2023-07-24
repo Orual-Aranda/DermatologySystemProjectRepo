@@ -1,2 +1,2 @@
 # DermatologySystemProjectRepo
-Este repositorio se centra en el desarrollo de un sistema avanzado para la detección temprana de cáncer de piel mediante el uso de redes neuronales convolucionales (CNN). 
+This repository focuses on the development of an advanced system for early detection of skin cancer using Convolutional Neural Networks (CNN).
