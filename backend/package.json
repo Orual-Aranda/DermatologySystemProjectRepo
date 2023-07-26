@@ -1,0 +1,28 @@
+{
+  "name": "sistem-web-dermatology-api",
+  "version": "0.0.1",
+  "description": "This is the rest api for the dermatology web system.",
+  "main": "index.js",
+  "repository": "https://github.com/Orual-Aranda/DermatologySystemProjectRepo.git",
+  "author": "Orual Mauricio Aranda Claure",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
